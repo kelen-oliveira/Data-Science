@@ -7,7 +7,7 @@
 # Kelen Oliveira
 <sub>* Engineer | Gis Analyst | Geospatial Data Scientist *
 
-**Background em:** Python, ArcGis, Environmental Modeling, and Geospatial analysis.
+**Background em:** Python, ArcGis, Environmental Modeling and Geospatial analysis.
 
 **Links:**
 * [Portfólio](https://github.com/kelen-oliveira/Data-Science)
