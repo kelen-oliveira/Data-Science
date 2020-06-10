@@ -13,7 +13,7 @@
 * [Portfólio](https://github.com/kelen-oliveira/Data-Science)
 * [LinkedIn](https://www.linkedin.com/in/kelen-oliveira/)
 
-## Projetos:
+**Projetos:**
 Conheça meus projetos de Data Science:
 * **Análise de dados do Aibnb da cidade do Rio de Janeiro:** https://github.com/kelen-oliveira/Data-Science/blob/master/An%C3%A1lise_de_dados_do_Airbnb_(Cidade_do_Rio_de_Janeiro).ipynb
 * **Análise de dados do Aibnb da cidade de Nova York:** https://github.com/kelen-oliveira/Data-Science/blob/master/An%C3%A1lise_de_dados_do_Airbnb_(Cidade_de_Nova_York).ipynb
