@@ -6,6 +6,10 @@
 
 # Kelen Oliveira
 <sub>* Engineer | Gis Analyst | Geospatial Data Scientist *
+  
+I'm an engineer who enjoy geotechnologies and has a consolidated professional experience in the forest sector, working with geoprocessing and forest planning.
+
+In the last months, I dedicated myself to learning Data Science methodologies for analyzing geographic data.
 
 **Background em:** Python, ArcGis, Environmental Modeling and Geospatial analysis.
 
